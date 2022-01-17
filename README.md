@@ -1,1 +1,0 @@
-# courses_template
