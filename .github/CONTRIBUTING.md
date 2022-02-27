@@ -14,8 +14,8 @@ We love your input! We want to make contributing to this project as easy and tra
 
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on 
-[IIITH-Resources Github Repository](https://github.com/IIITH-Resources/courses_template) & 
-[IIITH-Resources Web-Page](https://iiith-resources.github.io/courses_template/) :sparkles:. 
+[IIITH-Resources Github Repository](https://github.com/IIITH-Resources/) & 
+[IIITH-Resources Web-Page](https://iiith-resources.github.io/) :sparkles:. 
 
 Please Read our [ Code of Conduct ](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
